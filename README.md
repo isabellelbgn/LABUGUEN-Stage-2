@@ -1,5 +1,5 @@
 # LABUGUEN-Stage-2
-Stage 1: Modules and Express
+Stage 2: Modules and Express
 In this stage, I created a Node.js file and utilized the Express module to define a route that responds with my favorite programming language when accessed via a GET request.
 
 ## Instructions
